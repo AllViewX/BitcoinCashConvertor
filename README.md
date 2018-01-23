@@ -1,5 +1,10 @@
+
+
 # CashConverter
 CashConverter is a simple yet usefull python tool which help you to convert BCH new format address in legacy one (usefull for multiple addresses migration).
+
+![alt text](http://g.recordit.co/8lTgfWS8JX.gif)
+
 
 # Requirements
 The requirements of this tool are:
